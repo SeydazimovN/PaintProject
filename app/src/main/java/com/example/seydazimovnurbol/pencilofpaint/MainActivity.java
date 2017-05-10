@@ -77,12 +77,12 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void init() {
-        colors.add("#82B926");
-        colors.add("#a276eb");
-        colors.add("#6a3ab2");
-        colors.add("#666666");
-        colors.add("#FFFF00");
-        colors.add("#3C8D2F");
+        colors.add("#e11493");
+        colors.add("#1489e1");
+        colors.add("#1d1b1c");
+        colors.add("#ffba0f");
+        colors.add("#32dcb6");
+        colors.add("#77ff1a");
         colors.add("#FA9F00");
         colors.add("#FF0000");
     }
